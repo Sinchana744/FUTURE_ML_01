@@ -67,3 +67,15 @@ Attendance
 Previous_Score
 Assignments
 Final_Score
+
+---
+
+## 📸 Project Screenshots
+
+### Streamlit Prediction
+
+![Streamlit Prediction](screenshots/streamlit_prediction.png)
+
+### Actual vs Predicted Scores
+
+![Actual vs Predicted](screenshots/actual_vs_predicted.png)
